@@ -1,6 +1,4 @@
-import sys
-import click
-from retrieve_data import retrieve_new_data
+from .retrieve_data import retrieve_new_data
 from bs4 import BeautifulSoup
 
 
